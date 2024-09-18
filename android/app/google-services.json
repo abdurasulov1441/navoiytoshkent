@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641909271020",
+    "project_id": "navoiy-toshkent",
+    "storage_bucket": "navoiy-toshkent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641909271020:android:f90e0c779c19021a32b8c9",
+        "android_client_info": {
+          "package_name": "com.navoiy.toshkent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_G4wMI1VIlGSEfnOWhc-rkvCyERWgF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
